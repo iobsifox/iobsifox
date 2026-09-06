@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iobsifox/iobsifox/main/branding/logo-banner.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=OBSIFOX&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Game%20%26%20Plugin%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
 </div>
 
@@ -70,7 +70,7 @@ If my projects help you, consider supporting development:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iobsifox/iobsifox/main/branding/logo-icon.png" width="48"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 <p><img src="https://komarev.com/ghpvc/?username=iobsifox&label=Profile+Views&color=58a6ff&style=flat"/></p>
 
