@@ -4,7 +4,7 @@
 
 # OBSIFOX
 
-**Game & plugin developer** — Minecraft RPG frameworks, launchers & tools.
+**Game & plugin developer** — Minecraft launchers, tools & mobile fixes.
 
 <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
@@ -15,11 +15,6 @@
 ## Projects
 
 <div align="center">
-
-### 🎮 [RPGMaker](https://github.com/iobsifox/RPGMaker)
-**Minecraft RPG framework** for Paper 1.21.11+ — 27+ game systems, registry, token system, bitmap UI, `.rpg` content packs.
-
-<img src="https://img.shields.io/github/v/release/iobsifox/RPGMaker?include_prereleases&style=flat-square&color=58a6ff"/> <img src="https://img.shields.io/badge/Paper_1.21-8B5CF6?style=flat-square"/>
 
 ### 🟩 [SolidCraft](https://github.com/iobsifox/SolidCraft)
 **Native dark-pixel Minecraft launcher** — C++20 / Qt 6, Modrinth & CurseForge discovery, SHA-256 verified self-update.
