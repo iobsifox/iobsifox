@@ -17,9 +17,9 @@
 <div align="center">
 
 ### [RPGMaker](https://github.com/iobsifox/RPGMaker)
-**Complete game framework for Minecraft Paper 1.21+** — 84 systems: Combat, Quests, Bosses, Dungeons, Skills, Spells, Economy, Guilds, Parties, Crafting, and more. Java 21, fully tested.
+**Complete game framework for Minecraft Paper 1.21+** — 114 systems, 123 source files, 52 tests passing. Combat, Quests, Bosses, Dungeons, Skills, Spells, Economy, Guilds, PvP Arenas, CTF, Story, Visual Effects and more.
 
-<img src="https://img.shields.io/github/v/release/iobsifox/RPGMaker?include_prereleases&style=flat-square&color=FF6B35"/> <img src="https://img.shields.io/badge/84_Systems-FF6B35?style=flat-square"/> <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/github/v/release/iobsifox/RPGMaker?include_prereleases&style=flat-square&color=FF6B35"/> <img src="https://img.shields.io/badge/114_Systems-FF6B35?style=flat-square"/> <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 
 ### [SolidCraft](https://github.com/iobsifox/SolidCraft)
 **Native dark-pixel Minecraft launcher** — C++20 / Qt 6, Modrinth & CurseForge discovery, SHA-256 verified self-update.
