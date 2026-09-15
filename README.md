@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/PHP_7.4%2B_%2F_8.x-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress_6.0%2B-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/WooCommerce_HPOS-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elementor-Widget-92003B?style=flat-square&logo=elementor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS_Logical_Properties-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
@@ -25,11 +26,12 @@
 <div align="center">
 
 ### 🛒 [MiniCart](https://github.com/iobsifox/MiniCart)
-**Modern sliding mini-cart drawer & mobile bottom-sheet for WooCommerce** — Native RTL/LTR support, debounced AJAX quantity updates, dynamic free shipping motivator bar, and HPOS compatibility.
+**Modern mini-cart popup, Elementor widget & mobile bottom-sheet for WooCommerce** — Centered modal card, native RTL/LTR, debounced AJAX quantity updates, dynamic free shipping bar, and GitHub self-updates.
 
 <p>
   <a href="https://github.com/iobsifox/MiniCart/releases/latest"><img src="https://img.shields.io/github/v/release/iobsifox/MiniCart?style=flat-square&color=3B82F6" alt="MiniCart Release"/></a>
   <img src="https://img.shields.io/badge/WooCommerce_6.0%2B-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elementor-Widget-92003B?style=flat-square&logo=elementor&logoColor=white"/>
   <img src="https://img.shields.io/badge/RTL_%26_LTR-Native-10B981?style=flat-square"/>
   <img src="https://img.shields.io/badge/Mobile-Bottom_Sheet-6366F1?style=flat-square"/>
 </p>
