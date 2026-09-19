@@ -1,82 +1,142 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="OBSIFOX — Game & Plugin Developer"/>
+<img src="banner.png" width="100%" alt="OBSIFOX — Software, Commerce and Game Systems" />
 
 # OBSIFOX
 
-**Game & Plugin Developer — Obsifox Studio**  
-*High-performance store bridges, modern WooCommerce systems & game plugins.*
+### Product engineering for commerce, support and connected applications
+
+**WordPress & WooCommerce · Flutter clients · Release engineering · Game integrations**
+
+Obsifox builds focused software products and private-source systems with public, verifiable releases.<br>
+**Staffwind** is the product and application publishing division of Obsifox.
 
 <p>
-  <img src="https://img.shields.io/badge/PHP_7.4%2B_%2F_8.x-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress_6.0%2B-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WooCommerce_HPOS-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elementor-Widget-92003B?style=flat-square&logo=elementor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS_Logical_Properties-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-6.x-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-HPOS-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/Flutter-Cross--platform-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Cloudflare-Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+  <img src="https://img.shields.io/badge/RTL-Persian_ready-10B981?style=flat-square" alt="Persian and RTL ready" />
 </p>
 
 </div>
 
 ---
 
-## Projects
+## Products & public releases
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🛒 [MiniCart](https://github.com/iobsifox/MiniCart)
-**Modern mini-cart popup, Elementor widget & mobile bottom-sheet for WooCommerce** — Centered modal card, native RTL/LTR, debounced AJAX quantity updates, dynamic free shipping bar, and GitHub self-updates.
+### 🎫 [Horizon Agent](https://github.com/iobsifox/Horizon-Agent)
 
-<p>
-  <a href="https://github.com/iobsifox/MiniCart/releases/latest"><img src="https://img.shields.io/github/v/release/iobsifox/MiniCart?style=flat-square&color=3B82F6" alt="MiniCart Release"/></a>
-  <img src="https://img.shields.io/badge/WooCommerce_6.0%2B-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elementor-Widget-92003B?style=flat-square&logo=elementor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RTL_%26_LTR-Native-10B981?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Mobile-Bottom_Sheet-6366F1?style=flat-square"/>
-</p>
+Public release channel for **Horizon Ticket System**: a WordPress support platform with Staffwind agent applications for Windows, macOS, Linux and Android.
 
----
+- Signed, platform-native installers
+- WordPress plugin and theme packages
+- Checksums and machine-readable update manifests
+- Private source, public verifiable downloads
+
+[![Latest release](https://img.shields.io/github/v/release/iobsifox/Horizon-Agent?style=flat-square&label=release)](https://github.com/iobsifox/Horizon-Agent/releases/latest)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 [DashWoo](https://github.com/iobsifox/DashWoo)
+
+A local-first UI platform for **WooCommerce × Elementor**, designed for Persian and RTL storefronts.
+
+- Local fonts, icons and assets
+- Reusable design tokens
+- No CDN dependency
+- WordPress REST API integration
+
+[![Repository](https://img.shields.io/badge/source-public-181717?style=flat-square&logo=github)](https://github.com/iobsifox/DashWoo)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ⛏️ [BazzarMc](https://github.com/iobsifox/BazzarMc)
-**WooCommerce to Minecraft store bridge** — Persian/RTL custom cart & checkout, OTP login (dashboard/email/SMS), automated rank & item delivery, claim GUI, reward engine, and Elementor widgets.
 
-<p>
-  <a href="https://github.com/iobsifox/BazzarMc/releases/latest"><img src="https://img.shields.io/github/v/release/iobsifox/BazzarMc?include_prereleases&style=flat-square&color=16A34A" alt="BazzarMc Release"/></a>
-  <img src="https://img.shields.io/badge/WordPress_6.0%2B-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spigot__Paper_1.16--1.21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
-</p>
+A WooCommerce-to-Minecraft commerce bridge with Persian/RTL checkout, OTP authentication and automated delivery.
 
----
+- Five-minute account connection codes
+- Dashboard, email and SMS OTP flows
+- Automated ranks and item fulfillment
+- Store and server integration
+
+[![Latest release](https://img.shields.io/github/v/release/iobsifox/BazzarMc?include_prereleases&style=flat-square&label=release)](https://github.com/iobsifox/BazzarMc/releases/latest)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 [WebHook Releases](https://github.com/iobsifox/webhook-releases)
+
+Public distribution channel for WebHook clients and server bundles.
+
+- Signed client packages
+- Server deployment bundles
+- Release checksums
+- Private implementation source
+
+[![Latest release](https://img.shields.io/github/v/release/iobsifox/webhook-releases?style=flat-square&label=release)](https://github.com/iobsifox/webhook-releases/releases/latest)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 [Solfur Releases](https://github.com/iobsifox/solfur-releases)
+
+Official public binaries, installers and Android packages for Solfur while the implementation remains private.
+
+[![Latest release](https://img.shields.io/github/v/release/iobsifox/solfur-releases?style=flat-square&label=release)](https://github.com/iobsifox/solfur-releases/releases/latest)
+
+</td>
+<td width="50%" valign="top">
 
 ### 📱 [JoiPlay Touch Fix](https://github.com/iobsifox/Joiplay-Fix-Touch)
-**Touch-input fix patch for JoiPlay emulator** — Touch-to-mouse sync and rapid-click prevention plugin for Android.
 
-<p>
-  <img src="https://img.shields.io/badge/Android-Touch_Patch-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fix-Rapid_Click_Prevention-E11D48?style=flat-square"/>
+A focused Android patch for synchronizing touch input with mouse events in the JoiPlay emulator and preventing rapid-click issues.
+
+[![Repository](https://img.shields.io/badge/project-public-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/iobsifox/Joiplay-Fix-Touch)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering principles
+
+- **Private source, controlled releases** where a product requires proprietary implementation
+- **Signed installers and reproducible metadata** for desktop and mobile distribution
+- **Checksums and update manifests** for secure application and plugin updates
+- **No destructive restrictions on customer data** in licensed or freemium products
+- **RTL and Persian-first UX** without sacrificing international support
+- **Local assets and minimal external dependencies** for reliability and privacy
+
+---
+
+## Core stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,wordpress,dart,flutter,ts,js,html,css,cloudflare,mysql,sqlite,githubactions,linux,windows,apple,android&perline=8" alt="Technology stack" />
 </p>
-
-</div>
-
----
-
-## Support
-
-Building open tools, bridges, and e-commerce systems. If my projects help your workflow, consider supporting:
-
-```
-USDT (ERC-20): 0xfcdc026df89867aec34c3cfd3893b269924ce896
-```
-
----
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iobsifox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iobsifox&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iobsifox&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iobsifox&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html" height="165" alt="Top languages" />
 
-<p><img src="https://komarev.com/ghpvc/?username=iobsifox&label=Profile+Views&color=58a6ff&style=flat"/></p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=iobsifox&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile views" />
+</p>
+
+**Obsifox Studio · Staffwind product division**
 
 </div>
