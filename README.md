@@ -24,10 +24,10 @@ Staffwind is the product and application publishing division of ObsiFox.
 
 Cross-platform client and public distribution channel for Horizon Ticket System.
 
-- Current public version: `1.0.0`
+- Current public version: `1.1.0`
 - Channel: `Beta`
 - Test status: Testing version
-- Version `1.1.0`: Not published
+- Package status: Published without commercial code-signing certificates
 <img src="https://raw.githubusercontent.com/iobsifox/Horizon-Agent/main/language-composition.svg" width="100%" alt="Horizon Agent language composition" />
 
 </td>
