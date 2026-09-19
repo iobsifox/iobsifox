@@ -24,7 +24,7 @@ Staffwind is the product and application publishing division of ObsiFox.
 
 Cross-platform client and public distribution channel for Horizon Ticket System.
 
-- Current public version: `1.1.0`
+- Current public version: `1.1.1`
 - Channel: `Beta`
 - Test status: Testing version
 - Package status: Published without commercial code-signing certificates
