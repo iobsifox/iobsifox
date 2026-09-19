@@ -28,7 +28,7 @@ Cross-platform client and public distribution channel for Horizon Ticket System.
 - Channel: `Beta`
 - Test status: Testing version
 - Version `1.1.0`: Not published
-- Main languages: PHP 64.9%, Dart 28.1%
+<img src="https://raw.githubusercontent.com/iobsifox/Horizon-Agent/main/language-composition.svg" width="100%" alt="Horizon Agent language composition" />
 
 </td>
 <td width="50%" valign="top">
@@ -40,7 +40,7 @@ Local-first user-interface platform for WooCommerce and Elementor with Persian a
 - Current public version: `1.1.0`
 - Channel: `Snapshot`
 - Test status: Development snapshot
-- Main languages: PHP 96.4%, JavaScript 1.5%
+<img src="https://raw.githubusercontent.com/iobsifox/DashWoo/main/language-composition.svg" width="100%" alt="DashWoo language composition" />
 
 </td>
 </tr>
@@ -54,7 +54,7 @@ WooCommerce and Minecraft commerce bridge with account linking, OTP authenticati
 - Current public version: `2.0.3`
 - Channel: `Beta`
 - Test status: Testing version
-- Main languages: PHP 61.2%, Java 16.5%, CSS 13.1%
+<img src="https://raw.githubusercontent.com/iobsifox/BazzarMc/main/language-composition.svg" width="100%" alt="BazzarMc language composition" />
 
 </td>
 <td width="50%" valign="top">
@@ -66,7 +66,7 @@ Remote desktop and remote access platform distributed through signed client and 
 - Current public version: `2.2.0`
 - Channel: `Snapshot`
 - Test status: Development snapshot
-- Main languages: TypeScript 95.1%, CSS 4.1%
+<img src="https://raw.githubusercontent.com/iobsifox/WebHook/main/language-composition.svg" width="100%" alt="WebHook language composition" />
 
 </td>
 </tr>
@@ -80,7 +80,7 @@ Touch-to-mouse synchronization and rapid-click prevention patch for the JoiPlay 
 - Current public version: `1.8.1`
 - Channel: `Stable`
 - Test status: Public stable patch
-- Main language: JavaScript 100.0%
+<img src="https://raw.githubusercontent.com/iobsifox/Joiplay-Fix-Touch/main/language-composition.svg" width="100%" alt="JoiPlay Touch Fix language composition" />
 
 </td>
 <td width="50%" valign="top">
