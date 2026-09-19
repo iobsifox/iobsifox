@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Iobsifox — Software, Commerce and Connected Systems" />
+<img src="banner.png" width="100%" alt="ObsiFox — Software, Commerce and Connected Systems" />
 
-# Iobsifox
+# ObsiFox
 
 ## Product engineering for commerce, support and connected applications
 
-Iobsifox develops WordPress and WooCommerce products, cross-platform applications, release infrastructure and game integrations.
+ObsiFox develops WordPress and WooCommerce products, cross-platform applications, release infrastructure and game integrations.
 
-Staffwind is the product and application publishing division of Iobsifox.
+Staffwind is the product and application publishing division of ObsiFox.
 
 </div>
 
@@ -123,6 +123,6 @@ Public repositories contain product documentation, distributable files, checksum
 <img src="https://github-readme-stats.vercel.app/api?username=iobsifox&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub statistics" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iobsifox&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html" height="165" alt="Top languages" />
 
-Iobsifox Studio · Staffwind product division
+ObsiFox Studio · Staffwind product division
 
 </div>
